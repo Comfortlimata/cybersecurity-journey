@@ -1,7 +1,19 @@
-# 08 Certifications
+# 🏅 Certifications and Training
 
-This section stores certification notes and study materials.
+This directory records my completed cybersecurity certifications and relevant training.
 
-## Current focus
+## Completed Certifications
 
-- OPSWAT Introduction to CIP
+### Introduction to CIP
+
+* **Issuing organisation:** OPSWAT Academy
+* **Status:** Completed
+* **Credential verification:** Add the official verification link if available.
+
+## Training in Progress
+
+Additional cybersecurity training and certifications will be documented here as I complete them.
+
+## My Approach
+
+I aim to complement formal training with practical labs, technical projects, and continuous learning.
