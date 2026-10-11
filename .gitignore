@@ -1,0 +1,28 @@
+# Git ignore
+
+## General
+
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+## IDEs
+
+.vscode/
+.idea/
+
+## Environment
+
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+## OS
+
+.DS_Store
