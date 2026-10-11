@@ -1,12 +1,19 @@
-# Progress Tracker
+# 🏅 Certifications and Training
 
-| Room | Status | Notes |
-| --- | --- | --- |
-| Example Room | Completed | Notes |
+This directory records my completed cybersecurity certifications and relevant training.
 
-## Checklist
+## Completed Certifications
 
-- Completed room
-- Reviewed notes
-- Summarized key learnings
-- Repeated tasks if needed
+### Introduction to CIP
+
+* **Issuing organisation:** OPSWAT Academy
+* **Status:** Completed
+* **Credential verification:** Add the official verification link if available.
+
+## Training in Progress
+
+Additional cybersecurity training and certifications will be documented here as I complete them.
+
+## My Approach
+
+I aim to complement formal training with practical labs, technical projects, and continuous learning.
